@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Square",
+        "x1_coord": 1,
+        "y1_coord": 3,
+        "Area": 9
+    },
+    {
+        "name": "Rectangle",
+        "x1_coord": 1,
+        "y1_coord": 4,
+        "Area": 24
+    },
+    {
+        "name": "Circle",
+        "x1_coord": 4,
+        "y1_coord": 2,
+        "Area": 78.53981633974483
+    },
+    {
+        "name": "Ellipse",
+        "x1_coord": 0,
+        "y1_coord": 0,
+        "Area": 87.96459430051421
+    }
+]
